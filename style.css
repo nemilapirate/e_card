@@ -151,7 +151,7 @@ body {
     border: 0.1px solid rgba(0,0,0,0.4);
 }
 .ronds:nth-child(3){
-    background: blue;
+    background: #70C0CB;
 }
 .ronds:nth-child(4){
     background: pink;
